@@ -1,4 +1,4 @@
-# world map
+# <a href="https://digitalkoine.github.io/je_prismatic_map/">World Map</a>
 
 The World Map locates 678 acts of translation of Jane Eyre, into 68 languages. By an ‘act of translation’ we mean either the first publication of a translation, or its re-publication in a new place: that is to say, we foreground the translations’ distribution across geography. This map presents the data in a more organized form than the General Map. The numbers you see on first encountering the World Map show how many acts of translation are recorded in a given area: as you zoom in they will divide. You can navigate and zoom using your mouse or touch-screen, and click on each point to reveal publication details.  
 
