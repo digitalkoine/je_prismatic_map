@@ -23,7 +23,7 @@ library(geojsonio)
   pal <- colorBin("YlOrRd", domain = countries$annotation)
   
   ## upload the data in csv
-  data <- read.csv("data/csv/pje_2023_02.csv")
+  data <- read.csv("data/csv/pje_2023_04_28.csv")
   
   ## Create the map  object
   m <- leaflet(countries) %>% 
